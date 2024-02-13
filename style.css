@@ -1,0 +1,31 @@
+/* Footer paragraph styles */
+footer p {
+    font-size: 0.9rem;
+    color: #6c757d;
+    margin-bottom: 0;
+  }
+  
+  /* Footer section styles */
+  footer .col {
+    margin-bottom: 2rem;
+  }
+  
+  footer h5 {
+    color: #212529;
+  }
+  
+  footer ul.nav {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  footer ul.nav li {
+    margin-bottom: 0.5rem;
+  }
+  
+  @media screen and (max-width: 768px) {
+    footer .col {
+      text-align: center;
+    }
+  }
+  
